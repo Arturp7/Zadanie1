@@ -3,7 +3,7 @@ public class Lerning {
         System.out.println("Uczę się programowania i commitowania");
         System.out.println("Dodawanie stringów 2 część");
         System.out.println("Wyświetlenie liczby integer  " + 55555);
-        System.out.println("Wyświetlenie znaku  " + 'A');
+        System.out.println("Wyświetlenie znaku  " + 'B');
 
 
     }
